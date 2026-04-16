@@ -1,7 +1,7 @@
 # Hi 🌍, I'm Alan Silva
 
 🚀 **Studying Systems Analysis and Development**  
-🇧🇷 Brazil
+Brazil
 
 Programming student driven by **determination and curiosity**. Always seeking to improve my skills and turn ideas into real solutions. **I know where I want to go and work every day to build that path through continuous learning and practice.**
 
