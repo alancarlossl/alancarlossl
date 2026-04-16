@@ -37,7 +37,7 @@ Programming student driven by **determination and curiosity**. Always seeking to
 
 ## 📖 Philosophy
 
-> _"Hard work beats natural gift_
+> _"Hard work beats natural gift"_
 
 ---
 
