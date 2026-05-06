@@ -16,8 +16,7 @@
 
 ## 📍 Sobre mim
 
-<p align="center">
-Desenvolvedor Java em início de jornada, focado em evolução contínua, criação de projetos reais e construção de uma base sólida para se destacar no mercado.
+<p align="center">Desenvolvedor Java em início de jornada, focado em evolução contínua, criação de projetos reais e construção de uma base sólida para se destacar no mercado.
 
 Tenho grande interesse em:
 <br><br>
@@ -31,7 +30,6 @@ Desenvolvimento backend com Java, criação de APIs REST, estudo de frameworks c
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=idea" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  
 </div>
 
 ---
@@ -39,8 +37,7 @@ Desenvolvimento backend com Java, criação de APIs REST, estudo de frameworks c
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=
-alancarlossl&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alancarlossl&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -50,17 +47,18 @@ alancarlossl&theme=tokyo-night&hide_border=true"/>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alancarlosl=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alancarlossl&theme=tokyonight" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BassamAbiEzzeddine&theme=tokyonight&utcOffset=-3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alancarlossl&theme=tokyonight&utcOffset=-3" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BassamAbiEzzeddine&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=
+alancarlossl&layout=compact&theme=tokyonight" height="150" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassamAbiEzzeddine&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alancarlossl&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=BassamAbiEzzeddine&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=alancarlossl&show_icons=true&theme=tokyonight" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=BassamAbiEzzeddine&theme=tokyonight" height="150" />
+<img src="https://streak-stats.demolab.com?user=alancarlossl&theme=tokyonight" height="150" />
 
 </div>
 
