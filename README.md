@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a3531,100:8a5750&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=71443F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Alan+%F0%9F%91%8B;Desenvolvedor+Java+em+evolu%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=71443F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Alan+%F0%9F%8C%8D;Desenvolvedor+Java+em+evolu%C3%A7%C3%A3o+%E2%98%95;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%BB" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Desenvolvimento backend com Java, criação de APIs REST, estudo de frameworks c
 
 ---
 
-## 📈 Activity Graph
+## 📈 Gráfico de atividades
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alancarlossl&theme=tokyo-night&hide_border=true"/>
@@ -64,32 +64,25 @@ alancarlossl&layout=compact&theme=tokyonight" height="150" />
 
 ---
 
-## 🚀 Projetos
+## 📁 Projetos
 
 <p align="center">
-🔹 Em breve meus projetos estarão disponíveis aqui!  
-Estou trabalhando em automações e aplicações em Python.
+  Empolgado para compartilhar meus primeiros projetos no GitHub, aplicando na prática tudo que venho aprendendo e evoluindo a cada novo desafio.
 </p>
 
 <p align="center">
-  ⭐ <a href="https://github.com/BassamAbiEzzeddine?tab=repositories">Ver repositórios</a>
+  🔍 <a href="https://github.com/alancarlossl?tab=repositories">Ver repositórios</a>
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📩 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bassamabiezzeddine">
+  <a href="https://www.linkedin.com/in/alan-carlos-2b309b3a3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/bassamabiezzeddine">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@bassamabiezzeddine">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:BassamEzzeddine6@gmail.com">
+  <a href="mailto:a1ln2k9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -98,6 +91,8 @@ Estou trabalhando em automações e aplicações em Python.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:71443f,100:a06a63&height=120&section=footer"/>
 
 <p align="center">
+“Seu esforço não faz sentido se você não acredita em si mesmo.”
+</p>
+<p align="center">
 ✨ Obrigado por visitar meu perfil!  
-🚀 Sempre aprendendo, sempre evoluindo.
 </p>
