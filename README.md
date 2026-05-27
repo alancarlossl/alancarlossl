@@ -9,7 +9,7 @@
 <h1 align="center">Alan Carlos da Silva</h1>
 
 <p align="center">
-☕ Desenvolvedor Java | 🚀 Evolução constante
+☕ Desenvolvedor Java
 </p>
 
 ---
