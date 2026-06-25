@@ -30,6 +30,7 @@ Desenvolvimento backend com Java, criação de APIs REST, estudo de frameworks c
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=idea" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
 </div>
 
 ---
