@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a3531,100:8a5750&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C0242B,100:FF3B4D&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=71443F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Alan+%F0%9F%8C%8D;Desenvolvedor+Java+em+evolu%C3%A7%C3%A3o+%E2%98%95;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C0242B&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Alan+%F0%9F%8C%8D;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%BB"/>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <h1 align="center">Alan Carlos da Silva</h1>
 
 <p align="center">
-☕ Desenvolvedor Java
+☕ Back-end Java
 </p>
 
 ---
@@ -28,6 +28,8 @@ Desenvolvimento backend com Java, criação de APIs REST, estudo de frameworks c
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
   <img src="https://skillicons.dev/icons?i=idea" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
@@ -89,12 +91,11 @@ alancarlossl&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:71443f,100:a06a63&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1D22,25:B32029,50:C0242B,75:D92C35,100:F04B54&height=120&section=footer"/>
 
 <p align="center">
-“Seu esforço não faz sentido se você não acredita em si mesmo.”
+  “Seu esforço não faz sentido se você não acredita em si mesmo.”
 </p>
 <p align="center">
-✨ Obrigado por visitar meu perfil!  
+  ✨ Obrigado por visitar meu perfil!  
 </p>
-
